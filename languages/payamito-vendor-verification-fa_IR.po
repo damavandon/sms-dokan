@@ -1,0 +1,132 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Payamito:vendor-verification\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-01-26 08:14+0000\n"
+"PO-Revision-Date: 2022-01-26 08:30+0000\n"
+"Last-Translator: \n"
+"Language-Team: فارسی\n"
+"Language: fa_IR\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.5; wp-5.9\n"
+"X-Domain: payamito-vendor-verification"
+
+#: includes/class-plugins-required.php:66
+msgid ""
+" Plugin Payamito:vendor verification requires the installation of Dokan pro "
+"and Payamito core "
+msgstr ""
+"افزونه تایید فروشندگان پیامیتو نیاز به نصب افزونه دکان پرو و افزونه  هسته "
+"پیامیتو دارد "
+
+#: includes/class-vendor-verification.php:61
+msgid " SMS code is Incorrect "
+msgstr ""
+"کد پیامک نادرست است\n"
+
+#: includes/class-vendor-verification.php:59
+msgid "An unexpected error occurred. Please contact support "
+msgstr "یک خطای غیرمنتظره رخ داد. لطفا با پشتیبانی تماس بگیرید"
+
+#: plugin.php:157 plugin.php:171
+msgid "Cheatin&#8217; huh?"
+msgstr "تقلب کردن&#8217; huh?"
+
+#: includes/class-vendor-verification.php:60
+msgid "Enter OTP number "
+msgstr "کد پیامک را وارد کنید"
+
+#: includes/class-vendor-verification.php:58
+msgid "Failed to send SMS code "
+msgstr "کد پیامک ارسال نشد"
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://payamito.com/"
+msgstr "https://payamito.com/"
+
+#: includes/admin/class-settings.php:166
+msgid "If you use pattern to send OTP sms pattern id can not is empty"
+msgstr ""
+"اگر از الگو برای ارسال پیامک رمزعبور یکبار مصرف استفاده می کنید، شناسه الگوی "
+"نمی تواند خالی باشد"
+
+#: includes/admin/class-settings.php:178
+msgid ""
+"If you use pattern to send OTP sms. Please create a pattern for sending SMS"
+msgstr ""
+"اگر از الگو برای ارسال اس ام اس OTP استفاده می کنید. لطفا یک الگو برای ارسال "
+"پیامک ایجاد کنید"
+
+#: includes/class-vendor-verification.php:65
+msgid "Message content is empty "
+msgstr "محتوای پیام خالی است"
+
+#: plugin.php:220
+msgid "Minimum php required version 7.0.0 or higher is required"
+msgstr "حداقل php مورد نیاز نسخه 7.0.0 یا بالاتر مورد نیاز است"
+
+#: includes/admin/class-settings.php:170
+msgid "OTP pattern id must be a number"
+msgstr "شناسه الگوی رمز عبور یکبار مصرف باید یک عدد باشد"
+
+#: includes/admin/class-settings.php:174
+msgid "OTP pattern id must be at least 4 characters must be a number"
+msgstr ""
+"شناسه الگوی رمز عبور یکبار مصرف باید حداقل 4 کاراکتر باشد باید یک عدد باشد"
+
+#: includes/class-vendor-verification.php:62
+msgid "Pattern id is empty"
+msgstr "شناسه الگو خالی است"
+
+#: includes/class-vendor-verification.php:63
+msgid "Pattern is Incorrect "
+msgstr "الگو نادرست است"
+
+#. Author of the plugin
+msgid "Payamito"
+msgstr "پیامیتو"
+
+#. Description of the plugin
+msgid "payamito vendor verification version"
+msgstr "افزونه تایید فروشندگان پیامیتو "
+
+#. Name of the plugin
+msgid "Payamito:vendor-verification"
+msgstr "پیامیتو نسخه تایید فروشندگان"
+
+#: includes/admin/class-settings.php:130
+msgid "phone number"
+msgstr "شماره موبایل"
+
+#: includes/admin/class-settings.php:138
+msgid "Phone number "
+msgstr "شماره موبایل"
+
+#: includes/class-vendor-verification.php:56
+msgid "phone number number is incorrect"
+msgstr "شماره موبایل نادرست است"
+
+#: includes/admin/class-settings.php:162
+msgid "Please enter a metakey to save user phone number"
+msgstr "لطفاً برای ذخیره شماره تلفن کاربر یک کلید متا وارد کنید"
+
+#: includes/class-vendor-verification.php:64
+msgid "Please wait until the end of the resend time "
+msgstr "لطفا تا پایان زمان ارسال مجدد صبر کنید"
+
+#: includes/class-vendor-verification.php:57
+msgid "SMS code sent successfully"
+msgstr "کد پیامک با موفقیت ارسال شد"
+
+#: includes/admin/class-settings.php:184
+msgid ""
+"You created a pattern for sending OTP but did not specify a value .Please "
+"select a valid value from the drop-down box"
+msgstr ""
+"شما یک الگو برای ارسال OTP ایجاد کردید اما مقداری را مشخص نکردید. لطفاً یک "
+"مقدار معتبر از کادر کشویی انتخاب کنید."
